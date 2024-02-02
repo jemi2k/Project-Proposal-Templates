@@ -22,7 +22,6 @@ _Please ensure your proposal strictly adheres to these guidelines to be consider
 
 ### **Project Title**
 
-Provide the title of your project.
 Web3Wave
 
 ### **What are you planning to build?**
