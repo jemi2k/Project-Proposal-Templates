@@ -4,7 +4,7 @@
 
 ### **Project Title**
 
-#Web3Wave
+# Web3Wave
 
 ### **What are you planning to build?**
 
